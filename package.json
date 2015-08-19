@@ -1,0 +1,17 @@
+{
+  "name": "node_craft",
+  "version": "0.0.1",
+  "description": "crafts",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit index.spec.js"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "drahman",
+  "license": "MIT",
+  "devDependencies": {
+    "nodeunit": "^0.9.1"
+  }
+}
